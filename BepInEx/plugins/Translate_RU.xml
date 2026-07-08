@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTranslate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!-- Автором данного русификатора является RasvetTM https://www.twitch.tv/rasvettm -->
+<!-- Официальное руководство русификатора в Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=3441516716&tscn=1741939982 -->
+<!-- Официальная страница русификатора на Thunderstore - https://thunderstore.io/c/repo/p/RasvetTM/BEST_Russian_Translate_REPO/ -->
+<!-- Предупреждение -->
+  <Translate key="PHOTOSENSITIVITY WARNING" translate="ПРЕДУПРЕЖДЕНИЕ О СВЕТОЧУВСТВИТЕЛЬНОСТИ" />
+  <Translate key="This game contains flashing lights." translate="Эта игра содержит мигающие огоньки." />
+  <Translate key="Some individuals may experience epileptic seizures when exposed to light patterns and flashing lights. If you feel any discomfort when playing, immediately stop playing and consult a doctor." translate="&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;Некоторые люди могут испытывать&#10;&#10;эпилептические припадки под воздействием&#10;&#10;световых узоров и мигающих огней.&#10;&#10;Если во время игры вы почувствуете какой-либо&#10;&#10;дискомфорт, немедленно прекратите игру и&#10;&#10;обратитесь к врачу."  />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Главное меню -->
+  <Translate key="v0.3.0" translate="v0.3.0 &lt;color=#ffffff&gt;| Переведено twitch: RasvetTM" size="11"/> 
+  <Translate key="Private Game" translate="Создать игру" />
+  <Translate key="Public Game" translate="Присоединиться к игре" />
+  <Translate key="join friend" translate="Присоединиться к другу" />
+  <Translate key="host game" translate="Создать игру" />
+  <Translate key="join game" translate="Присоединиться к игре" />
+  <Translate key="singleplayer" translate="Одиночная игра" />
+  <Translate key="Tutorial" translate="Обучение" />
+  <Translate key="Settings" translate="Настройки" />
+  <Translate key="Quit game" translate="Выйти из игры" />
+  <Translate key="Quit Game" translate="Выйти из игры" />
+  <Translate key="Close the entire application?" translate="Закрыть приложение?" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Сохранения -->
+  <Translate key="Host a game?" translate="Создать игру?" />
+  <Translate key="The friend with the best computer&#xA;and internet should host.&#xA;&#xA;Are you this friend?" translate="Игрок с хорошим компьютером&#10;&#10;и интернетом должен быть хостом.&#10;&#10;Вы таким являетесь?" />
+  <Translate key="The friend with the best computer&#xA;should host.&#xA;&#xA;Are you this friend?" translate="Игрок с хорошим компьютером&#10;&#10;и интернетом должен быть хостом.&#10;&#10;Вы таким являетесь?" />
+  <Translate key="YES" translate="ДА" />
+  <Translate key="YES!" translate="ДА" />
+  <Translate key="Yes! :')" translate="Да! :')" />
+  <Translate key="Yes!" translate="ДА" />
+  <Translate key="Yes" translate="ДА" />
+  <Translate key="yes" translate="да" />
+  <Translate key="NO" translate="НЕТ" />
+  <Translate key="No" translate="НЕТ" />
+  <Translate key="No..." translate="Нет..." />
+  <Translate key="no" translate="нет" />
+  <Translate key="Ok Dang" translate="Ок" />
+  <Translate key="Haha yes!  :)" translate="ДА" />
+  <Translate key="Not me...  :'(" translate="НЕТ" />
+  <Translate key="No wait!" translate="НЕТ" />
+  <Translate key="PASSWORD" translate="ПАРОЛЬ" />
+  <Translate key="SKIP" translate="ПРОПУСТИТЬ" />
+  <Translate key="Skip" translate="ПРОПУСТИТЬ" />
+  <Translate key="Multiplayer mode" translate="Многопользовательская игра" />
+  <Translate key="WARNING" translate="ВНИМАНИЕ" />
+  <Translate key="While playing with random players you may come across cheaters or really mean people..." translate="Играя со случайными игроками,&#10;&#10;вы можете столкнуться с читерами&#10;&#10;или по-настоящему злыми людьми." />
+  <Translate key="I understand" translate="Хорошо" />
+  <Translate key="No thanks :(" translate="Нет" />
+  <Translate key="PUblic game" translate="Публичная игра" />
+  <Translate key="RANDOM MATCHMAKING" translate="СЛУЧАЙНЫЙ ПОДБОР" />
+  <Translate key="SERVER LIST" translate="СПИСОК СЕРВЕРОВ" />
+  <Translate key="SEARCH" translate="ПОИСК" />
+  <Translate key="CREATE NEW" translate="СОЗДАТЬ" />
+  <Translate key="CREATE NEW SERVER" translate="СОЗДАТЬ НОВЫЙ СЕРВЕР" />
+  <Translate key="SAVED GAMES" translate="СОХРАНЕНИЯ" />
+  <Translate key="Saved games" translate="Сохранения" />
+  <Translate key="Here's all the fun you’ve had and the opportunity to pick up right where you left off." translate="Вот все веселье, которое вы пережили, а также возможность продолжить с того места, на котором остановились." />
+  <Translate key="TOTAL HAUL:" translate="ОБЩАЯ ПРИБЫЛЬ:" part="true" />
+  <Translate key="Current Moon:" translate="Текущая Луна:" part="true" />
+  <Translate key="and" translate="и" part="true" />
+  <Translate key="LOAD SAVE" translate="ЗАГРУЗИТЬ" />
+  <Translate key="Load save?" translate="Загрузить сохранение?" />
+  <Translate key="Load this save file?" translate="Загрузить это сохранение?" />
+  <Translate key="DELETE SAVE" translate="УДАЛИТЬ" />
+  <Translate key="DELETE SAVE?" translate="УДАЛИТЬ СОХРАНЕНИЕ?" />
+  <Translate key="Are you REALLY SURE you want to delete this save FOREVER?" translate="Вы ДЕЙСТВИТЕЛЬНО УВЕРЕНЫ, что &#10;&#10;хотите удалить это сохранение?" />
+  <Translate key="LOADING" translate="ЗАГРУЗКА" />
+  <Translate key="Lobby" translate="Лобби" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; to chat" translate="Нажми &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; для открытия чата" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; to chat" translate="Нажми &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; для открытия чата" />
+  <Translate key="ms" translate="мс" part="true" />
+  <Translate key="[HOST]" translate="[ХОСТ]" part="true" />
+  <Translate key="Change color" translate="Изменить цвет" />
+  <Translate key="select color" translate="выберите цвет" />
+  <Translate key="Confirm" translate="Подтвердить" />
+  <Translate key="Leave" translate="Выйти" />
+  <Translate key="invite" translate="пригласить" />
+  <Translate key="Start Game" translate="Начать игру" />
+  <Translate key="start game" translate="начать игру" />
+  <Translate key="KICK PLAYER" translate="ИСКЛЮЧИТЬ ИГРОКА" />
+  <Translate key="Do you really want to kick&#xA;" translate="Вы действительно хотите &#10;&#10;исключить игрока: &#10;&#10;" part="true" />
+  <Translate key="Everyone ready?&#xA;&#xA;Once the game is started&#xA;new players can not join." translate="Все готовы?&#10;&#10;После начала игры &#10;&#10;новые игроки не смогут &#10;&#10;присоединиться." />
+  <Translate key="NEW GAME" translate="НОВАЯ ИГРА" />
+  <Translate key="Start a new game?" translate="Начать новую игру?" />
+  <Translate key="Do you want to start a game?" translate="Вы хотите начать игру?" />
+  <Translate key="Singleplayer mode" translate="Одиночная игра" />
+  <Translate key="Are you sure?" translate="Вы уверены?" />
+  <Translate key="&lt; GO BACK" translate="&lt; НАЗАД" />
+  <Translate key="BUILD NAME" translate="НОМЕР СБОРКИ" />
+  <Translate key="CHAT:" translate="ЧАТ:" />
+  <Translate key="Leave Lobby" translate="Покинуть лобби" />
+  <Translate key="Are you sure?" translate="Вы уверены?" />
+  <Translate key="player joining..." translate="игрок заходит..." />
+  <Translate key="&lt;color=#FF8C00&gt;Press&lt;/color&gt; [interact]" translate="&lt;color=#FF8C00&gt;Нажмите&lt;/color&gt; [interact]" inputTagPrefix="&lt;color=white&gt;" inputTagSuffix="&lt;/color&gt;" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Регионы -->
+  <Translate key="REGIONS" translate="РЕГИОНЫ" />
+  <Translate key="Pick Best Region" translate="Выбрать лучший регион" />
+  <Translate key="EUROPE" translate="ЕВРОПА" />
+  <Translate key="Europe" translate="Европа" />
+  <Translate key="USA East" translate="Восток США" />
+  <Translate key="USA West" translate="Запад США" />
+  <Translate key="South Africa" translate="Южная Африка" />
+  <Translate key="Asia" translate="Азия" />
+  <Translate key="South America" translate="Южная Америка" />
+  <Translate key="Japan" translate="Япония" />
+  <Translate key="Australia" translate="Австралия" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Меню + в игре -->
+  <Translate key="Menu" translate="Меню" />
+  <Translate key="Continue" translate="Продолжить" />
+  <Translate key="Self Destruct" translate="Самоуничтожиться" />
+  <Translate key="Self Destruction" translate="Самоуничтожение" />
+  <Translate key="Is that really so?" translate="Это реально то, что тебе нужно?" />
+  <Translate key="It's over for me" translate="Да" />
+  <Translate key="Main Menu" translate="Главное Меню" />
+  <Translate key="Exit to main menu?" translate="Выйти в главное меню?" />
+  <Translate key="The Broken Ones:" translate="Сломанные:" />
+  <Translate key="VOICE" translate="ГРОМКОСТЬ" part="true" />
+  <Translate key="FOUND" translate="НАЙДЕНО" />
+  <Translate key="GAME OVER" translate="ИГРА ОКОНЧЕНА" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Точка сбора -->
+  <Translate key="ACTIVE" translate="АКТИВНО" size="36" />
+  <Translate key="EXTRACTION POINT ACTIVATED" translate="ТОЧКА СБОРА &#10;&#10;АКТИВИРОВАНА" />
+  <Translate key="COMPLETED" translate="ЗАВЕРШЕНО" size="34" />
+  <Translate key="EXTRACTION POINT COMPLETED" translate="ТОЧКА СБОРА &#10;&#10;ЗАВЕРШЕНА" />
+  <Translate key="READY" translate="ГОТОВ" size="36" />
+  <Translate key="TAX RETURN" translate="ПОДСЧЕТ" size="36" />
+  <Translate key="EXTRACTING" translate="СБОР" size="36" />
+  <Translate key="LOCKED" translate="ЗАБЛОКИРОВАНО" size="24" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Обучение -->
+  <Translate key="Good job! &lt;sprite name=creepycrying&gt;" translate="Хорошая работа! &lt;sprite name=creepycrying&gt;" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move" translate="Используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; для движения" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;LEFT MOUSE + RIGHT MOUSE&lt;/b&gt;&lt;/u&gt; to rotate an object you are holding" translate="Используйте &lt;b&gt;&lt;u&gt;ЛКМ + ПКМ&lt;/b&gt;&lt;/u&gt; для вращения поднятого предмета" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move." translate="Используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt;, чтобы двигаться." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; on your keyboard until the progress bar is filled!" translate="Используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; на вашей клавиатуре, пока шкала полностью не &#10;&#10;заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Move to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Двигайтесь, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to do jumps until the progress bar is filled!" translate="Нажимайте &lt;u&gt;&lt;b&gt;ПРОБЕЛ&lt;/b&gt;&lt;/u&gt;, чтобы прыгать. Прыгайте до тех пор, пока &#10;&#10;шкала полностью не заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Jump to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Прыгайте, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to jump." translate="Нажмите &lt;u&gt;&lt;b&gt;ПРОБЕЛ&lt;/b&gt;&lt;/u&gt;, чтобы прыгнуть." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; until the progess is filled!" translate="Удерживайте &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt; и используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt;, пока шкала полностью не &#10;&#10;заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sneak to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Ползайте, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak. Monsters are less likely to see you." translate="Нажмите &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt;, чтобы пригнуться. Монстры с меньшей вероятностью смогут вас заметить." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and walk in under a prop, stay there until you fill the progress bar!" translate="Удерживайте &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt; и залезьте под объект. Оставайтесь там, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak under stuff and hide." translate="Используйте &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt;, чтобы прятаться под объектами." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Hide to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Спрячьтесь, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to sprint until you filled the progress bar! If the energy runs out, wait for it to regenerate!" translate="Удерживайте &lt;u&gt;&lt;b&gt;ЛЕВЫЙ SHIFT&lt;/b&gt;&lt;/u&gt; и используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; , чтобы бежать. &#10;&#10;Бегайте, пока шкала полностью не заполнится. Если энергия закончится, &#10;&#10;подождите, пока она не восстановится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sprint to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Бегайте, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; to sprint. This drains your energy." translate="Удерживайте &lt;u&gt;&lt;b&gt;ЛЕВЫЙ SHIFT&lt;/b&gt;&lt;/u&gt;, чтобы бежать. Это расходует вашу выносливость." />
+  <Translate key="Run (&lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt;), jump (&lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt;) and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to throw yourself. Do it until you fill the progress bar!" translate="Удерживайте &lt;u&gt;&lt;b&gt;ЛЕВЫЙ SHIFT&lt;/b&gt;&lt;/u&gt; и разбегитесь, прыгните на &lt;u&gt;&lt;b&gt;ПРОБЕЛ&lt;/b&gt;&lt;/u&gt; и &#10;&#10;нажмите &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt;, чтобы выполнить рывок. Выполняйте рывки до тех пор, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Run, jump and fall to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt; Делайте рывки, пока полностью не &#10;&#10;заполните шкалу" />
+  <Translate key="Run and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to fall with style. Jumping also helps!" translate="Разбегитесь и нажмите &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt;, чтобы выполнить рывок. В прыжке тоже можно!" />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it until you fill the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет и удерживайте его, пока шкала полностью не &#10;&#10;заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Carry that thing to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Удерживайте предмет, чтобы &#10;&#10;полностью заполнить шкалу" />
+  <Translate key="Grab objects using &lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;." translate="Берите предметы с помощью &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt;." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item and use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of the item you grabbed!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет и используйте &lt;u&gt;&lt;b&gt;КОЛЕСО МЫШИ&lt;/b&gt;&lt;/u&gt;, &#10;&#10;чтобы изменить расстояние до предмета, который вы взяли!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Alter the distance of a grabbed item" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Измените расстояние до &#10;&#10;предмета, который вы взяли" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of grabbed objects." translate="Используйте &lt;u&gt;&lt;b&gt;КОЛЕСО МЫШИ&lt;/b&gt;&lt;/u&gt;, чтобы изменить расстояние между предметами." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it while you press &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt; and move your aim to rotate it. Rotate until you fill the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет и удерживайте его, следом зажмите &lt;u&gt;&lt;b&gt;ПКМ&lt;/b&gt;&lt;/u&gt; и &#10;&#10;перемещайте камеру, чтобы повернуть его. Вращайте предмет, пока шкала &#10;&#10;полностью не заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Rotate stuff to fill the progress bar." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Вращайте предмет, чтобы &#10;&#10;полностью заполнить шкалу" />
+  <Translate key="Rotate grabbed objects using &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt;." translate="Вращайте поднятые предметы с помощью &lt;u&gt;&lt;b&gt;ПКМ&lt;/b&gt;&lt;/u&gt;." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the ball and toggle it on and off using &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; until you fill the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; шар и переключайте вкл/выкл с помощью &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Toggle that thing on and off." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Включайте и выключайте &#10;&#10;эту штуку" />
+  <Translate key="Grab and press &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; to toggle items." translate="Возьмите и нажмите &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;, чтобы взаимодействовать с предметом." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill your entire inventory." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Полностью заполните &#10;&#10;свой инвентарь" />
+  <Translate key="Grab an Item and use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to put it in your inventory." translate="Возьмите предмет и нажмите &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;, чтобы поместить его в свой инвентарь." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item, hold it and press &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. Fill all spots in your inventory to complete the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет, удерживайте его и нажмите &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. &#10;&#10;Заполните все место в инвентаре, чтобы шкала полностью &#10;&#10;заполнилась!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Empty your entire inventory." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Полностью освободите &#10;&#10;свой инвентарь" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to take items out of your inventory." translate="Используйте &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;, чтобы выбросить предметы из инвентаря." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; and empty all spots to fill the progress bar!" translate="Используйте &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; и освободите все место в инвентаре, чтобы шкала &#10;&#10;полностью заполнилась!" />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; and view it until you have filled the progress bar!" translate="Удерживайте &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; и смотрите карту, чтобы полностью заполнить шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Check the map." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Посмотрите на карту" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; to view the map. The map is &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for navigation." translate="Используйте &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt;, чтобы посмотреть карту. Карта &lt;b&gt;&lt;u&gt;используется&lt;/b&gt;&lt;/u&gt; для навигации." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the C.A.R.T. by the handle and walk around with it until you have filled the progress bar!" translate="Возьмитесь &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; за ручку C.A.R.T. и походите вместе, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Walk around with the C.A.R.T. a little." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Немного походите с C.A.R.T." />
+  <Translate key="This is a C.A.R.T. Grab it by the handle." translate="Это C.A.R.T. Возьмитесь за его ручку." />
+  <Translate key="C.A.R.T." translate="C.A.R.T." />
+  <Translate key="Mode: STRONG" translate="Режим: СИЛЬНЫЙ" />
+  <Translate key="Mode: WEAK" translate="Режим: СЛАБЫЙ" />
+  <Translate key="Put three items into the C.A.R.T." translate="Положите три ценных предмета в C.A.R.T." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the C.A.R.T. with valuables." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Заполните C.A.R.T. ценными &#10;&#10;предметами" />
+  <Translate key="Fill C.A.R.T.s with valuables. C.A.R.T.s are &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for carrying more stuff." translate="Заполните C.A.R.T. ценными предметами. C.A.R.T. &lt;b&gt;&lt;u&gt;используется&lt;/b&gt;&lt;/u&gt; для перевозки большого количества предметов." />
+  <Translate key="HELLO! FILL THE &lt;b&gt;&lt;u&gt;EXTRACTION POINT&lt;/b&gt;&lt;/u&gt; WITH VALUABLES!" translate="Сдайте все ценные предметы на &lt;b&gt;&lt;u&gt;Точку Сбора&lt;/b&gt;&lt;/u&gt;!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Extract the valuables." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Сдайте все ценные предметы" />
+  <Translate key="Activate and fill &lt;b&gt;&lt;u&gt;Extraction Points&lt;/b&gt;&lt;/u&gt; with valuables." translate="Активируйте &lt;b&gt;&lt;u&gt;Точку Сбора&lt;/b&gt;&lt;/u&gt; и сдайте все ценные предметы." />
+  <Translate key="Walk into the truck, grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold the message area on the truck screen to send a message!" translate="Зайдите в грузовик, нажмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; и удерживайте область на экране, чтобы &#10;&#10;отправить сообщение!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get into the truck and send a message." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Сядьте в грузовик и &#10;&#10;отправьте сообщение своему боссу" />
+  <Translate key="Enter the &lt;b&gt;&lt;u&gt;truck&lt;/b&gt;&lt;/u&gt; and send a message to your boss in order to leave a level." translate="Зайдите в &lt;b&gt;&lt;u&gt;грузовик&lt;/b&gt;&lt;/u&gt; и отправьте сообщение своему боссу, чтобы завершить уровень." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get back to the truck!" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Вернитесь в фургон!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Find the next extraction point" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Найдите следующую &#10;&#10;точку сбора" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Настройки -->
+  <Translate key="Gameplay" translate="Геймплей" />
+  <Translate key="Graphics" translate="Графика" />
+  <Translate key="Audio" translate="Аудио" />
+  <Translate key="Controls" translate="Управление" />
+  <Translate key="controls" translate="управление" />
+  <Translate key="Back" translate="Назад" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Выбор настроек -->
+  <Translate key="Very High" translate="Очень высокое" />
+  <Translate key="High" translate="Высокое" />
+  <Translate key="Medium" translate="Среднее" />
+  <Translate key="Low" translate="Низкое" />
+  <Translate key="Very Low" translate="Очень низкое" />
+  <Translate key="Default" translate="Стандарт" />
+  <Translate key="Small" translate="Маленькая" />
+  <Translate key="Unlimited" translate="Неограничено" />
+  <Translate key="Full" translate="Максимальная" />
+  <Translate key="Minimal" translate="Минимальная" />
+  <Translate key="ON" translate="ВКЛ" />
+  <Translate key="On" translate="Вкл"/>
+  <Translate key="OFF" translate="ВЫКЛ" />
+  <Translate key="Off" translate="Выкл" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Сброс настроек -->
+  <Translate key="RESET TO DEFAULT SETTINGS" translate="СБРОСИТЬ НАСТРОЙКИ" />
+  <Translate key="RESET CONTROLS?" translate="СБРОСИТЬ НАСТРОЙКИ?" />
+  <Translate key="RESET GAMEPLAY SETTINGS?" translate="СБРОСИТЬ НАСТРОЙКИ?" />
+  <Translate key="Reset all controls to default settings?" translate="Сбросить все настройки по &#10;&#10;умолчанию?" />
+  <Translate key="Reset all gameplay settings to default properties?" translate="Сбросить все настройки по &#10;&#10;умолчанию?" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Геймплей -->
+  <Translate key="Tips" translate="Подсказки" size="18" />
+  <Translate key="Language" translate="Язык" size="18" />
+  <Translate key="Player Names" translate="Ники игроков" size="18" />
+  <Translate key="Photosensitivity" translate="Мерцающий свет" size="16" />
+  <Translate key="Aim Sensitivity" translate="Чувств. мыши" size="18" />
+  <Translate key="Camera Smoothing" translate="Плавность камеры" size="14" />
+  <Translate key="Camera Shake" translate="Тряска камеры" size="18" />
+  <Translate key="Camera Noise" translate="Шум камеры" size="18" />
+  <Translate key="Camera Animation" translate="Анимация камеры" size="15" />
+  <Translate key="Invert Vertical Aim" translate="Инверсия мыши" size="16" />
+  <Translate key="Item Unequip Auto Hold" translate="Автоудержание предмета" size="10" />
+  <Translate key="Rich Presence" translate="Активность Discord" size="14" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Графика -->
+  <Translate key="Window Mode" translate="Режим экрана" size="18" />
+  <Translate key="Fullscreen" translate="Полный экран" />
+  <Translate key="Windowed" translate="В окне" />
+  <Translate key="Vsync" translate="V-sync" size="18" />
+  <Translate key="Gamma" translate="Гамма" size="18" />
+  <Translate key="Max FPS" translate="Макс FPS" size="18" />
+  <Translate key="Light Distance" translate="Дальность света" size="16" />
+  <Translate key="Shadow Quality" translate="Качество теней" size="18" />
+  <Translate key="Shadow Distance" translate="Дальность теней" size="16" />
+  <Translate key="Motion Blur" translate="Размытие в движ." size="15" />
+  <Translate key="Lens Distortion" translate="Размытие линз" size="18" />
+  <Translate key="Bloom" translate="Свечение" size="18" />
+  <Translate key="Chromatic Aberration" translate="Хром. аберрация" size="16" />
+  <Translate key="Grain" translate="Зернистость" size="18" />
+  <Translate key="Glitch Loop" translate="Глитчи" size="18" />
+  <Translate key="Pixelation" translate="Пикселизация" size="18" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Аудио -->
+  <Translate key="Master Volume" translate="Основная громкость" size="13" />
+  <Translate key="Music Volume" translate="Громкость музыки" size="14" />
+  <Translate key="Sfx Volume" translate="Громкость эффектов" size="13" />
+  <Translate key="Proximity Voice Volume" translate="Громкость голоса" size="14" />
+  <Translate key="Text to Speech Volume" translate="Громкость озвучки" size="14" />
+  <Translate key="Microphone" translate="Микрофон" />
+  <Translate key="Microphone Volume" translate="Громкость микрофона" size="12" />
+  <Translate key="NONE" translate="Не выбран" />
+  <Translate key="Push to Talk" translate="Режим рации" size="14" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Управление -->
+  <Translate key="MOVEMENT" translate="ПЕРЕДВИЖЕНИЕ" />
+  <Translate key="MOVE FORWARD" translate="ВПЕРЕД" size="16" />
+  <Translate key="move left" translate="ВЛЕВО" size="18" />
+  <Translate key="MOVE BACK" translate="НАЗАД" size="18" />
+  <Translate key="Move RIGHT" translate="ВПРАВО" size="18" />
+  <Translate key="jump" translate="прыжок" size="18" />
+  <Translate key="crouch" translate="присесть" size="18" />
+  <Translate key="sprint" translate="бег" size="18" />
+  <Translate key="TUMBLE" translate="СВЕРНУТЬСЯ" size="18" />
+  <Translate key="GRABBING" translate="ВЗАИМОДЕЙСТВИЕ" />
+  <Translate key="grab" translate="взять" size="18" />
+  <Translate key="rotate" translate="повернуть" size="18" />
+  <Translate key="push" translate="отдалить" size="18" />
+  <Translate key="pull" translate="притянуть" size="18" />
+  <Translate key="OTHER" translate="прочее" />
+  <Translate key="map" translate="карта" size="18" />
+  <Translate key="interact" translate="взаимодействие" />
+  <Translate key="inventory 1" translate="слот 1" size="18" />
+  <Translate key="inventory 2" translate="слот 2" size="18" />
+  <Translate key="inventory 3" translate="слот 3" size="18" />
+  <Translate key="chat" translate="чат" size="18" />
+  <Translate key="confirm" translate="подтвердить" size="18" />
+  <Translate key="back" translate="назад" size="18" />
+  <Translate key="menu" translate="меню" size="18" />
+  <Translate key="spectate next" translate="Наблюдать за след." size="14" />
+  <Translate key="spectate previous" translate="Наблюдать за пред." size="14" />
+  <Translate key="push to talk" translate="Режим рации" size="18" />
+  <Translate key="toggle mute" translate="Вкл/Выкл звук" size="18" />
+  <Translate key="Player Expressions" translate="Эмоции игроков" />
+  <Translate key="Expression - Angry" translate="Злость" size="18" />
+  <Translate key="Expression - Sad" translate="Грусть" size="18" />
+  <Translate key="Expression - Suspicious" translate="Подозрение" size="18" />
+  <Translate key="Expression - Eyes Closed" translate="Закрыть глаза" size="18" />
+  <Translate key="Expression - Crazy" translate="Безумие" size="18" />
+  <Translate key="Expression - Happy" translate="Счастье" size="18" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Клавиши -->
+  <Translate key="ESCAPE" translate="ESC" size="18" />
+  <Translate key="LEFT SHIFT" translate="ЛЕВЫЙ SHIFT" size="18" />
+  <Translate key="RIGHT SHIFT" translate="ПРАВЫЙ SHIFT" size="18" />
+  <Translate key="LEFT CONTROL" translate="ЛЕВЫЙ CTRL" size="18" />
+  <Translate key="RIGHT CONTROL" translate="ПРАВЫЙ CTRL" size="18" />
+  <Translate key="LEFT SYSTEM" translate="WIN" size="18" />
+  <Translate key="LEFT ALT" translate="ЛЕВЫЙ ATL" size="18" />
+  <Translate key="RIGHT ALT" translate="ПРАВЫЙ ALT" size="18" />
+  <Translate key="SPACE" translate="ПРОБЕЛ" size="18" />
+  <Translate key="CONTROL" translate="CTRL" size="18" />
+  <Translate key="MOUSE LEFT" translate="ЛКМ" size="18" />
+  <Translate key="MOUSE RIGHT" translate="ПКМ" size="18" />
+  <Translate key="MOUSE SCROLL" translate="КОЛЕСО МЫШИ" size="18" />
+  <Translate key="UP ARROW" translate="СТРЕЛКА ВВЕРХ" size="18" />
+  <Translate key="LEFT ARROW" translate="СТРЕЛКА ВЛЕВО" size="18" />
+  <Translate key="DOWN ARROW" translate="СТРЕЛКА ВНИЗ" size="18" />
+  <Translate key="RIGHT ARROW" translate="СТРЕЛКА ВПРАВО" size="18" />
+  <Translate key="MOUSE FORWARD" translate="МЫШЬ ВПЕРЕД" size="18" />
+  <Translate key="MOUSE BACK" translate="МЫШЬ НАЗАД" size="18" />
+  <Translate key="toggle" translate="нажать" />
+  <Translate key="hold" translate="удерживать" />
+  <Translate key="[press new button]" translate="[Нажмите новую кнопку]"/>
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Карты -->
+  <Translate key="SHOP" translate="МАГАЗИН" />
+  <Translate key="SERVICE STATION" translate="СТАНЦИЯ ОБСЛУЖИВАНИЯ" />
+  <Translate key="DISPOSAL ARENA" translate="АРЕНА УТИЛИЗАЦИИ" />
+  <Translate key="HEADMAN MANOR" translate="ПОМЕСТЬЕ СТАРОСТЫ" /> 
+  <Translate key="SWIFTBROOM ACADEMY" translate="АКАДЕМИЯ СВИФТБРУМ" />
+  <Translate key="MCJANNEK STATION" translate="СТАНЦИЯ МАКДЖАННЕК" />
+  <Translate key="MUSEUM OF HUMAN ART" translate="ХУДОЖЕСТВЕННЫЙ МУЗЕЙ" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Арена утилизации -->
+  <Translate key="KING OF THE LOSERS!" translate="ЦАРЬ ЛУЗЕРОВ!" />
+  <Translate key="LAST LOSER STANDING" translate="ПОСЛЕДНИЙ ЛУЗЕР" />
+  <Translate key="EVERYONE'S A LOSER!" translate="ВСЕ ЛУЗЕРЫ!" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Луны -->
+  <Translate key="Active moons" translate="Активные луны" />
+  <Translate key="active moons" translate="активные луны" />
+  <Translate key="Crescent Moon" translate="ПОЛУМЕСЯЦ" />
+  <Translate key="The truck healer now restores 35 health." translate="Теперь грузовик восстанавливает 35 здоровья." />
+  <Translate key="Monsters are now harder to knock down with valuables." translate="Теперь монстров сложнее сбить с ног с помощью ценных предметов." />
+  <Translate key="Half Moon" translate="ВОСХОДЯЩАЯ ЛУНА" />
+  <Translate key="Monsters now overcharge your grabber." translate="Теперь монстры перегружают ваш захват." />
+  <Translate key="Monsters take heavy damage from pits, but can survive." translate="Теперь монстры получают серьезный урон от ям, но могут остаться в живых." />
+  <Translate key="The truck healer now restores 25 health." translate="Теперь грузовик восстанавливает 25 здоровья." />
+  <Translate key="Full Moon" translate="ПОЛНОЛУНИЕ" />
+  <Translate key="Monsters now overcharge your grabber by a total increase of 25%" translate="Теперь монстры перегружают ваш захват на 25% сильнее." />
+  <Translate key="Monsters now take less damage from pits." translate="Теперь монстры получают меньше урона от ям." />
+  <Translate key="Super Moon" translate="СУПЕРЛУНИЕ" />
+  <Translate key="Enemy Orbs now explode when destroyed." translate="Теперь вражеские сферы взрываются при уничтожении." />
+  <Translate key="Monsters now overcharge your grabber by a total increase of 50%" translate="Теперь монстры перегружают ваш захват на 50% сильнее." />
+  <Translate key="Monsters now take even less damage from pits." translate="Теперь монстры получают еще меньше урона от ям." />
+  <Translate key="&lt;u&gt;&lt;b&gt;ESCAPE&lt;/b&gt;&lt;/u&gt; &lt;color=white&gt;to skip&lt;/color&gt;" translate="&lt;color=white&gt;Нажмите &lt;color=orange&gt;&lt;u&gt;&lt;b&gt;ESCAPE&lt;/b&gt;&lt;/u&gt; &lt;color=white&gt;, чтобы пропустить&lt;/color&gt;" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Монстры -->
+  <Translate key="Animal" translate="Животное" />
+  <Translate key="Banger" translate="Бенгер" />
+  <Translate key="Bowtie" translate="Боути" />
+  <Translate key="Clown" translate="Клоун" />
+  <Translate key="Peeper" translate="Глаз" />
+  <Translate key="Apex Predator" translate="Уточка-Хищник" />
+  <Translate key="Mentalist" translate="Менталист" />
+  <Translate key="Chef" translate="Шеф" />
+  <Translate key="Gnome" translate="Гном" />
+  <Translate key="Reaper" translate="Жница" />
+  <Translate key="Headman" translate="Староста" />
+  <Translate key="Hidden" translate="Прячущийся" />
+  <Translate key="Huntsman" translate="Охотник" />
+  <Translate key="Robe" translate="Халат" />
+  <Translate key="Spewer" translate="Пасть" />
+  <Translate key="Trudge" translate="Тихоход" />
+  <Translate key="Shadow Child" translate="Дитя Тени" />
+  <Translate key="Upscream" translate="Крикун" />
+  <Translate key="Rugrat" translate="Руграт" />
+  <Translate key="Birthday Boy" translate="Именинник" />
+  <Translate key="Elsa" translate="Эльза" />
+  <Translate key="Tick" translate="Клещ" />
+  <Translate key="Bella" translate="Белла" />
+  <Translate key="Gambit" translate="Гамбит" />
+  <Translate key="Heart Hugger" translate="Сердцехват" />
+  <Translate key="Oogly" translate="Оугли" />
+  <Translate key="Headgrab" translate="Головохват" />
+  <Translate key="Cleanup Crew" translate="Уборщик" />
+  <Translate key="Loom" translate="Лум" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Предметы -->
+  <Translate key="Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Grenade" translate="Граната" />
+  <Translate key="Stun Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Оглушающая Граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stun Grenade" translate="Оглушающая Граната" />
+  <Translate key="Shockwave Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пропульсионная Граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shockwave Grenade" translate="Импульсная Граната" />
+  <Translate key="Human Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Военная граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Human Grenade" translate="Военная граната" />
+  <Translate key="Duct Taped Grenades &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Связка военных гранат &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Duct Taped Grenades" translate="Связка военных гранат" />
+  <Translate key="Trapzap &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Электрическая Ловушка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Trapzap" translate="Электрическая Ловушка" />
+  <Translate key="Shockwave Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пропульсионная Мина &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shockwave Mine" translate="Импульсная Мина" />
+  <Translate key="Explosive Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Взрывная Мина &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Explosive Mine" translate="Взрывная Мина" />
+  <Translate key="Zero Gravity Orb &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Шар Нулевой Гравитации &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Zero Gravity Orb" translate="Шар Нулевой Гравитации" />
+  <Translate key="Zero Gravity Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон - Нулевой Гравитации &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Zero Gravity Drone" translate="Дрон - Нулевой Гравитации" />
+  <Translate key="Recharge Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон - Зарядка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Recharge Drone" translate="Дрон - Зарядка" />
+  <Translate key="Feather Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон - Перо &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Feather Drone" translate="Дрон - Перо" />
+  <Translate key="Roll Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон - Захват &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Roll Drone" translate="Дрон - Захват" />
+  <Translate key="Indestructible Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон - Защитник Предметов &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Indestructible Drone" translate="Дрон - Защитник Предметов" />
+  <Translate key="Extraction Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Трекер Точки Сбора &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Extraction Tracker" translate="Трекер Точки Сбора" />
+  <Translate key="Valuable Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Металлоискатель &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Valuable Tracker" translate="Металлоискатель" />
+  <Translate key="Energy Crystal &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Энергетический кристалл &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Energy Crystal" translate="Энергетический кристалл" />
+  <Translate key="Rubber Duck &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Резиновая Уточка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Rubber Duck" translate="Резиновая Уточка" />
+  <Translate key="POCKET C.A.R.T. &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="КАРМАННЫЙ C.A.R.T. &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="POCKET C.A.R.T." translate="КАРМАННЫЙ C.A.R.T." />
+  <Translate key="Frying Pan &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Сковородка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Frying Pan" translate="Сковорода" />
+  <Translate key="Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пистолет &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Gun" translate="Пистолет" />
+  <Translate key="Tranq Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Транквилизатор &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Tranq Gun" translate="Транквилизатор" />
+  <Translate key="Shotgun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дробовик &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shotgun" translate="Дробовик" />
+  <Translate key="Sledge Hammer &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Кувалда &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Sledge Hammer" translate="Кувалда" />
+  <Translate key="Baseball Bat &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Бейсбольная Бита &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Baseball Bat" translate="Бейсбольная Бита" />
+  <Translate key="Inflatable Hammer &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Надувной Молоток &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Inflatable Hammer" translate="Надувной Молоток" />
+  <Translate key="Sword &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Меч &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Sword" translate="Меч" />
+  <Translate key="Small Health Pack (25) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Маленькая Аптечка (25) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Small Health Pack (25)" translate="Маленькая Аптечка (25)" />
+  <Translate key="Medium Health Pack (50) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Средняя Аптечка (50) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Medium Health Pack (50)" translate="Средняя Аптечка (50)" />
+  <Translate key="Large Health Pack (100) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Большая Аптечка (100) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Large Health Pack (100)" translate="Большая Аптечка (100)" />
+  <Translate key="Health Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Здоровья &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Health Upgrade" translate="Улучшение Здоровья" />
+  <Translate key="Stamina Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Выносливости &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stamina Upgrade" translate="Улучшение Выносливости" />
+  <Translate key="Sprint Speed Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Скорости Бега &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Sprint Speed Upgrade" translate="Улучшение Скорости Бега" />
+  <Translate key="Strength Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Силы &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Strength Upgrade" translate="Улучшение Силы" />
+  <Translate key="Range Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Дальности &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Range Upgrade" translate="Улучшение Дальности" />
+  <Translate key="Tumble Launch Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Рывка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Tumble Launch Upgrade" translate="Улучшение Рывка" />  
+  <Translate key="Map Player Count Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Счетчик Игроков На Карте &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Map Player Count Upgrade" translate="Счетчик Игроков На Карте" />
+  <Translate key="Extra Jump Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Прыжка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Extra Jump Upgrade" translate="Улучшение Прыжка" />
+  <Translate key="Crouch Rest Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Регенерации Выносливости &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Crouch Rest Upgrade" translate="Улучшение Регенерации Выносливости" />
+  <Translate key="Tumble Wings Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Парящие Крылья &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Tumble Wings Upgrade" translate="Улучшение Парящие Крылья" />
+  <Translate key="Tumble Climb Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Лазания &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Tumble Climb Upgrade" translate="Улучшение Лазания" />
+  <Translate key="Death Head Battery Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Батареи Мертвой Головы &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Death Head Battery Upgrade" translate="Улучшение Батареи Мертвой Головы" />
+  <Translate key="Duck Bucket &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Ведро &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Duck Bucket" translate="Ведро" />
+  <Translate key="Boltzap &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Электроарбалет &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Boltzap" translate="Электроарбалет" />
+  <Translate key="Pulse Pistol &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Импульсный Пистолет &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Pulse Pistol" translate="Импульсный Пистолет" />
+  <Translate key="Prodzap &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Шокер &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Prodzap" translate="Шокер" />
+  <Translate key="C.A.R.T. Laser &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Лазерная Пушка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="C.A.R.T. Laser" translate="Лазерная Пушка" />
+  <Translate key="C.A.R.T. Cannon &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пушка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="C.A.R.T. Cannon" translate="Пушка" />
+  <Translate key="Phase Bridge &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Фазовый Мост &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Phase Bridge" translate="Фазовый Мост" />
+  <Translate key="Photon Blaster &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Фотонный Бластер &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Photon Blaster" translate="Фотонный Бластер" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Улучшения -->
+  <Translate key="UPGRADES" translate="УЛУЧШЕНИЯ" />
+  <Translate key="HEALTH" translate="ЗДОРОВЬЕ" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="STAMINA" translate="СТАМИНА" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="EXTRA JUMP" translate="ДВОЙНОЙ ПРЫЖОК" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="LAUNCH" translate="РЫВОК" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="MAP PLAYER COUNT" translate="КОЛИЧЕСТВО ИГРОКОВ НА КАРТЕ" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="SPEED" translate="СКОРОСТЬ" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="STRENGTH" translate="СИЛА" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="RANGE" translate="ДАЛЬНОСТЬ" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="CROUCH REST" translate="РЕГЕНЕРАЦИЯ ВЫНОСЛИВОСТИ" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="TUMBLE WINGS" translate="ПАРЯЩИЕ КРЫЛЬЯ" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="TUMBLE CLIMB" translate="ЛАЗАНИЕ" part="true" autoSizing="false" lineSpacing="2"/>
+  <Translate key="DEATH HEAD BATTERY" translate="БАТАРЕЯ МЕРТВОЙ ГОЛОВЫ" part="true" autoSizing="false" lineSpacing="2"/>
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Уровни -->
+  <Translate key="LEVEL" translate="УРОВЕНЬ" part="true" />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Подсказки -->
+  <Translate key="&lt;b&gt;Mission &gt; &lt;/b&gt;  Fill all extraction points with valuables&#xA;" translate="&lt;b&gt;Миссия &gt; &lt;/b&gt; Заполните все точки &#10;&#10;сбора ценными предметами" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the extraction point with valuables" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Заполните точку &#10;&#10;сбора ценными предметами" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Buy stuff in the shop" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Вы можете что-нибудь купить &#10;&#10;в магазине" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Enjoy the ride, recharge stuff and GEAR UP!" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Наслаждайтесь поездкой, &#10;&#10;пополняйте запасы и ПРИГОТОВЬТЕСЬ!" />
+  <Translate key="Time to leave, the truck heals you and revives carried players heads!" translate="Время уходить, грузовик исцеляет вас и воскрешает принесенные головы игроков!" />
+  <Translate key="This is the &lt;u&gt;&lt;b&gt;Shop&lt;/b&gt;&lt;/u&gt;, extract items to purchase. No harm lasts here!" translate="Это &lt;u&gt;&lt;b&gt;Магазин&lt;/b&gt;&lt;/u&gt;, выбирайте товары для покупки. Здесь безопасно, и ничто не предвещает беды!" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; to open the chat! It's fun!" translate="Нажмите &lt;u&gt;&lt;b&gt;Т&lt;/b&gt;&lt;/u&gt;, чтобы открыть чат! Это весело!" />
+  <Translate key="Share your health with other players by grabbing their necks!" translate="Делитесь своим здоровьем с другими игроками, хватая их за шею!" />
+  <Translate key="Buy &lt;u&gt;&lt;b&gt;Power Crystals&lt;/b&gt;&lt;/u&gt; for the &lt;u&gt;&lt;b&gt;Charging Station&lt;/b&gt;&lt;/u&gt; to recharge and repair gear!" translate="Покупайте &lt;u&gt;&lt;b&gt;Энергетические Кристаллы&lt;/b&gt;&lt;/u&gt; для &lt;u&gt;&lt;b&gt;Зарядной Станции&lt;/b&gt;&lt;/u&gt;, чтобы заряжать и ремонтировать снаряжение!" />
+  <Translate key="Only one &lt;u&gt;&lt;b&gt;Extraction Point&lt;/b&gt;&lt;/u&gt; can be active at a time, find the current one using your map!" translate="Одновременно может быть активна только одна &lt;u&gt;&lt;b&gt;Точка Сбора&lt;/b&gt;&lt;/u&gt;. Найдите её, используя вашу карту!" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;5&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;6&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;7&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;8&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;9&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;0&lt;/b&gt;&lt;/u&gt; to make expressions. You can even mix!" translate="Используйте &lt;u&gt;&lt;b&gt;5&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;6&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;7&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;8&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;9&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;0&lt;/b&gt;&lt;/u&gt; для выражения эмоций. Вы можете даже смешивать их!" />
+  <Translate key="Grabbing an enemy will now cause overcharge, when full you get blasted." translate="Удержание врага теперь вызывает перегрузку вашего захвата. Когда шкала заполняется, происходит взрыв." />
+  <Translate key="Pet the dog!" translate="Погладь собаку!" />
+  <Translate key="While dead your head charges, use that charge to briefly possess your head." translate="Пока вы мертвы, ваша голова заряжается. Используйте эту энергию, чтобы ненадолго управлять своей головой." />
+  <Translate key="While possessing your head, hold &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to jump. Hold to jump higher at a greater cost." translate="Управляя своей головой, нажмите и удерживайте клавишу &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt;, чтобы прыгнуть. Удерживайте, чтобы прыгнуть выше, но с большими затратами энергии." />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Ошибки -->
+  <Translate key="Disconnected" translate="Отключение" />
+  <Translate key="Cause: DisconnectByDisconnectMessage" translate="Причина: Отключение по &#10;&#10;сообщению об отключении" />
+  <Translate key="Cause: Host disconnected" translate="Причина: Хост отключился" />
+  <Translate key="&lt;b&gt;Cause:&#xA;&lt;/b&gt;ClientTimeout" translate="Причина: Превышено время &#10;&#10;ожидания клиента" />
+  <Translate key="&lt;b&gt;Cause:&#xA;&lt;/b&gt;Incorrect password" translate="Причина: Неверный пароль" />
+  <Translate key="Cause: Stuck in loading" translate="Причина: Застрял в процессе &#10;&#10;загрузки" />
+  <Translate key="Stuck in loading?" translate="Застряли в процессе загрузки?" />
+  <Translate key="&lt;color=white&gt;press&lt;/color&gt; &lt;u&gt;&lt;b&gt;ESCAPE&lt;/b&gt;&lt;/u&gt; &lt;color=white&gt;to exit to main menu&lt;/color&gt;" translate="&lt;color=white&gt;нажмите&lt;/color&gt; &lt;u&gt;&lt;b&gt;ESCAPE&lt;/b&gt;&lt;/u&gt;&lt;color=white&gt;, чтобы выйти в главное меню&lt;/color&gt;" />
+  <Translate key="You did it all alone!" translate="Ты сделал это в одиночку!" />
+  <Translate key="Lobby Closed" translate="Лобби закрыто" />
+  <Translate key="The lobby has closed." translate="Лобби закрыто или &#10;&#10;переполнено." />
+  <Translate key="Kicked" translate="Вас исключили" />
+  <Translate key="You were kicked by the host." translate="Вас исключил хост." />
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Динамический текст -->
+  <Translate key="STARTING ENGINE" translate="ЗАПУСК ДВИГАТЕЛЕЙ" part="true" autoSizing="false"/>
+  <Translate key="HITTING THE ROAD" translate="ОТПРАВЛЯЕМСЯ В ПУТЬ" part="true" autoSizing="false"/>
+  <Translate key="DESTROYING SLACKERS" translate="ЗАЧИСТКА" part="true" autoSizing="false"/>
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Автором данного русификатора является RasvetTM https://www.twitch.tv/rasvettm -->
+<!-- Официальное руководство русификатора в Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=3441516716&tscn=1741939982 -->
+<!-- Официальная страница русификатора на Thunderstore - https://thunderstore.io/c/repo/p/RasvetTM/BEST_Russian_Translate_REPO/ -->
+  <!-- t r a n s l a t e b y r a s v e t t m -->
+  <!-- t w i t c h . t v / r a s v e t t m -->
+</ArrayOfTranslate>
